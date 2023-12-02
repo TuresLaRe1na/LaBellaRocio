@@ -1,0 +1,35 @@
+li :hover{
+    background-color: rgb(55, 59, 56);
+    border-radius: 20px;
+}
+.espacio{
+    margin-left: 73%;
+}
+
+@media(max-width:992px){
+    .espacio{
+        margin-left: 0px;
+    }
+}
+
+.bordes{
+    border-radius: 30px;
+    border-style: solid;
+    border-color: dimgray;
+    height: 500px;
+    margin-left: 7%;
+    
+}
+
+.login{
+    background-image: url(../img/n.jpg) ;
+    background-size: cover;
+    
+}
+
+.cuadro{
+    border-radius: 20px;
+    opacity: 80%;
+    color: aliceblue;
+    
+}
